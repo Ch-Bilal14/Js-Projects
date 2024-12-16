@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+}
+#header {
+  text-align: center;
+}
+#menubar {
+  text-align: center;
+  background-color: rgb(39, 68, 68);
+}
+li {
+  display: inline-block;
+  padding: 15px 10px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+#container {
+  text-align: center;
+  padding: 50px 100px;
+}
+#img {
+  width: 100%;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
